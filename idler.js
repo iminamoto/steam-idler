@@ -4,7 +4,7 @@ import prompts from "prompts";
 
 // Define the game IDs to idle
 const games = {
-    ids: [], // Add game IDs here
+    ids: [730], // Add game IDs here
 };
 
 // Utility function to shuffle an array
